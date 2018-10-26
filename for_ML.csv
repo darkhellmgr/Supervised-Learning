@@ -1,0 +1,512 @@
+,CARD_NUMBER,Gender,MARITAL_STATUS,POSITION,ANNUAL_INCOME_RANGE,Type of employment,YEARS OF EMPLOYMENT,EDUCATION,OTHER BANK DETAILS,NO OF DEPENDENT,SOURCE OF INCOME,PROFESSION,age,customer_type,label,behaviour
+2,4020640000005570,Female,Married,unknown,unknown,Self-employed,unknown,Graduate,unknown,unknown,Business,Business women,0,CLIENT,0,2
+3,4020641000008184,Male,Married,unknown,1080000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,46,CLIENT,0,1
+5,4020641000004340,Male,Married,General Manager,1848000.0,Employee,More than 10 years,Post-graduated,SCB ( Credit Card),2,Salary,Management,46,CLIENT,0,0
+8,4020641000004183,Male,Married,Asssitant Director,1500000.0,Employee,More than 10 years,Post-graduated,Nepal Rastra Bank,2,Salary,Banker,50,CLIENT,0,0
+12,4020641000004712,Male,Married,Assistant Director,unknown,Employee,More than 10 years,Post Graduate,Nepal Rastra Bank,Salary,Banker,Government,55,CLIENT,0,0
+13,4020641000000769,Male,Married,Dental Surgeon,840000.0,Self-employed,more than 10 years,Graduate,unknown,unknown,Salary,Dentist,0,CLIENT,0,1
+14,4020641000004399,Male,Married,unknown,660000.0,Employee,2 to 5 years,Under Graduated,None,1,Salary,unknown,40,CLIENT,0,0
+15,4020641000004571,Male,Unmarried,Chairman,1320000.0,Employee,2 to 5 years,unknown,None,2,Salary,Leadership,56,CLIENT,0,0
+16,4020641000008788,Male,Married,Proprietor,2230992.0,Self-employed,More than 10 years,unknown,None,3,Business,Entrepreneur,0,CLIENT,0,0
+17,4020641000005990,Male,Married,Assistant Manager,696000.0,Employee,More than 10 years,Graduated,None,2,Salary,Management,43,CLIENT,0,0
+18,4020641000000595,Male,Married,unknown,1344000.0,Self-employed,unknown,Post Graduate,unknown,unknown,Business,Businessman,44,CLIENT,0,0
+22,4020641000005057,Male,Married,Proprietor,1272000.0,Self-employed,2 to 5 years,unknown,None,3,Business,Entrepreneur,32,CLIENT,0,1
+23,4020640000003674,Female,Married,Sales Manger,816000.0,Employee,More than 10 years,Post-graduated,Sanima Bank,unknown,Salary,Manager,42,CLIENT,0,3
+24,4020641000007244,Male,Unmarried,Proprietor,4800000.0,Self-employed,2 to 5 years,Under Graduated,None,2,Business,Entrepreneur,32,CLIENT,0,1
+25,4020641000000942,Male,unknown,unknown,1667490.96,Self-employed,unknown,unknown,unknown,4 or more,Business,unknown,0,CLIENT,2,4
+28,4020641000010347,Male,Unmarried,unknown,753180.0,Self-employed,More than 10 years,unknown,None,2,Business,Entrepreneur,28,CLIENT,0,0
+32,4020641000001163,Male,unknown,unknown,390000.0,Employee,unknown,unknown,unknown,2,Salary,unknown,47,CLIENT,0,1
+33,4020641000003821,Male,Married,unknown,1440000.0,Employee,More than 10 years,unknown,Siddhartha Bank NIBL (OD) Nabil Bank Limited ( Saving A/C),greater than 3,Salary,unknown,48,CLIENT,0,1
+34,4020641000007293,Female,Married,Junior officer,780000.0,Employee,5 to 10 years,Post-graduated,None,2,Salary,Management,36,CLIENT,0,0
+37,4020641000002211,Male,Married,CEO,1683996.0,Employee,unknown,unknown,unknown,3,Salary,Banker,55,CLIENT,0,0
+41,4020641000006386,Female,Unmarried,Assistant,249600.0,Employee,2 to 5 years,unknown,None,0,Salary,Management,24,CLIENT,0,0
+44,4020641000004563,Male,Married,Manager,1560000.0,Employee,2 to 5 years,Graduated,None,0,Salary,Mangement,25,CLIENT,0,1
+45,4020641000003441,Male,Married,Proprietor,7891920.0,Self-employed,2 to 5 years,Post-graduated,Siddhartha Bank (Credit Card),2,Business, Entrepreneur,50,CLIENT,0,1
+49,4020641000012228,Male,Married,unknown,unknown,Self-employed,unknown,unknown,unknown,Rental income,unknown,Private,59,CLIENT,0,0
+51,4020641000008705,Female,Unmarried,Assitant Manager,456000.0,Employee,2 to 5 years,Graduated,None,0,Salary,Corporate Sales,28,CLIENT,0,0
+56,4020641000010578,Male,Unmarried,Senior Assistant,475200.0,Employee,2 to 5 years,unknown,None,0,Salary,Assistant ,30,CLIENT,0,0
+57,4020641000003284,Male,Married,Physiotherapist,606000.0,Employee,unknown,Graduated,None,1,Salary,Physcian,36,CLIENT,0,1
+60,4020640000004243,Male,Married,Account Officer,530664.0,Employee,5 to 10 years,Graduate,NIBL,unknown,Salary,unknown,34,CLIENT,0,0
+61,4020640000003732,Female,Married,Gynecologist,2400000.0,Employee,2 to 5 years,unknown,None,2.0,Salary,Doctor,0,CLIENT,0,2
+62,4020641000006881,Male,Married,Senior Officer,1327200.0,Employee,2 to 5 years,Post-graduated,Kailash Bikas Bank Limited ( Staff Saving A/C),1,Salary,Banker,32,CLIENT,0,0
+65,4020641000001692,Male,Married,Proprietor,1800000.0,Self-employed,unknown,Graduate,unknown,unknown,Business,Businessman,0,CLIENT,0,2
+67,4020641000005354,Male,Married,Proprietor,2400000.0,Self-employed,5 to 10 years,unknown,None,1,Business,Entrepreneur,0,CLIENT,0,1
+70,4020641000007236,Male,Married,Proprietor,2400000.0,Self-employed,2 to 5 years,Graduated,Sanima Bank Limited,greater than 3,Business,Owner,41,CLIENT,0,0
+73,4020641000010552,Male,Married,CEO,1800000.0,Employee,2 to 5 years,unknown,None,2,Salary,Management,35,CLIENT,0,0
+75,4020641000012095,Male,unknown,unknown,900000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,44,CLIENT,0,0
+76,4020641000002286,Male,Married,Proprietor,2796000.0,Self-employed,unknown,unknown,unknown,unknown,Business,Business man,43,CLIENT,0,0
+77,4020641000009497,Male,Married,Proprietor,2792400.0,Self-employed,5 to 10 years,unknown,None,2,Business,Entrepreneur,40,CLIENT,0,1
+78,4020640000003989,Male,Unmarried,unknown,376959.96,Employee,unknown,Graduated,None,unknown,Salary,unknown,26,unknown,0,0
+80,4020641000009943,Male,Married,Consultant Radiologist,1800000.0,Employee,5 to 10 years,Post-graduated,None,3,Salary,Radiologist,40,CLIENT,0,0
+81,4020640000004367,Male,Unmarried,Director,875196.0,Employee,more than 10 years,Graduate,unknown,unknown,Salary,unknown,32,CLIENT,0,2
+82,4020641000002062,Male,Unmarried,Co-owner,2268000.0,Self-employed,unknown,unknown,unknown,3,Business,Business man,26,CLIENT,0,2
+85,4020640000007071,Male,Unmarried,Sales Manager,992532.0,Employee,5 to 10 years,unknown,unknown,None,Salary,Manager,30,CLIENT,0,3
+87,4020641000008598,Male,Married,unknown,1800000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,47,CLIENT,0,1
+88,4020640000004060,Male,Married,unknown,1800000.0,Self-employed,unknown,unknown,Nabil Bank,unknown,Business,unknown,42,CLIENT,0,1
+89,4020641000003573,Male,Married,Admin Officer,480000.0,Employee,2 to 5 years,Graduated,Siddhartha Bank(VISA Card) Saving A/C,1,Salary,Finance,33,CLIENT,0,0
+92,4020641000010701,Male,Married,Proprietor,unknown,Self-employed,unknown,unknown,unknown,Business,Businessman,Private,49,CLIENT,0,0
+94,4020641000005032,Female,Married,Proprietor,4800000.0,Self-employed,5 to 10 years,unknown,None,greater than 3,Business,Entrepreneur,47,CLIENT,0,1
+96,4020641000007681,Female,Married,Investment Manager,2640000.0,Employee,2 to 5 years,Others,None,1,Salary,Investment Specailist,36,CLIENT,0,0
+99,4020641000009950,Male,Married,Marketing Manager,840000.0,Employee,2 to 5 years,Post-graduated,None,3,Salary,Management Specialist,33,CLIENT,0,0
+100,4020641000011634,Male,Unmarried,Proprietor,unknown,confidential,Self employed,unknown,unknown,4 or more,Business,Business man,0,CLIENT,0,0
+101,4020641000004126,Female,Married,Deputy Director,15000000.0,Employee,5 to 10 years,Post-graduated,Nepal Rastra Bank,2,Salary,Banker,34,CLIENT,0,0
+106,4020641000001106,Female,Married,Proprietor,4752000.0,Self-employed,unknown,unknown,unknown,unknown,Business,Business women,31,CLIENT,0,2
+110,4020641000004043,Female,Married,Procurement Officer,420000.0,Employee,2 to 5 years,unknown,None,3,Salary,Procurement,0,CLIENT,0,0
+117,4020641000003219,Male,Married,CEO,1200000.0,Employee,2 to 5 years,unknown,None,2,Salary,Hotel Management,41,CLIENT,0,1
+121,4020640000007774,Male,Married,unknown,2352000.0,Self-employed,unknown,Graduate,unknown,unknown,Business,Businessman,0,CLIENT,0,1
+122,4020641000006246,Male,Married,Shareholder,720000.0,Self-employed,2 to 5 years,Post-graduated,NIC Asia Bank Limited ( Saving A/C),2,Business,Investors,45,CLIENT,0,1
+123,4020641000001270,Male,Married,Owner,2124000.0,Self-employed,2 to 5 years,unknown,None,2,Business,Entrepreneur,0,CLIENT,0,1
+124,4020640000005513,Male,Married,unknown,unknown,confidential,unknown,Graduate,unknown,unknown,unknown,unknown,0,CLIENT,0,3
+127,4020641000005651,Female,Married,Self Employed,952992.0,Self-employed,2 to 5 years,Others,None,2,Business,Entrepreneur,30,CLIENT,0,0
+129,4020641000002864,Male,Married,Self Employed,3096000.0,Self-employed,5 to 10 years,Graduated,None,3,Business,Entrepreneur,39,CLIENT,0,1
+130,4020640000003807,Male,Married,unknown,2400000.0,Employee,unknown,Post Graduate,unknown,2.0,Salary,Doctor,52,CLIENT,0,3
+131,4020641000004191,Male,Married,Assistant Director,1500000.0,Employee,5 to 10 years,Post-graduated,Nepal Rastra Bank,2,Salary,Banker,41,CLIENT,0,0
+133,4020641000007434,Male,Married,unknown,1109604.0,Self-employed,5 to 10 years,Graduated,None,1,Business,Entrepreneur,36,CLIENT,0,1
+137,4020641000007699,Male,Married,Senior Business Analyst,1080000.0,Employee,2 to 5 years,Post-graduated,None,1,Salary,Manager,34,CLIENT,0,0
+138,4020641000006741,Male,Married,First Officer,unknown,Employee,0 to 2 years,unknown,unknown,Salary,Employee,Private,35,CLIENT,0,0
+142,4020641000009653,Male,Married,Proprietor,1267200.0,Self-employed,5 to 10 years,Others,None,greater than 3,Business,Entrepreneur,38,CLIENT,0,1
+143,4020641000003987,Male,Married,unknown,1020000.0,Self-employed,Employee,unknown,None,3,Salary,Management,97,CLIENT,0,0
+146,4020641000009471,Male,Married,Proprietor,1031004.0,Self-employed,More than 10 years,unknown,None,1,Business,Entrepreneur,40,CLIENT,0,1
+149,4020641000007053,Male,Married,Manager,1320000.0,Employee,2 to 5 years,unknown,Bank Of Kathmandu(BOK) (Saving A/C) NIC ASIA ,2,Rent,Management,54,CLIENT,0,1
+150,4020641000005438,Female,Married,Manger,540000.0,Employee,5 to 10 years,unknown,None,1,Salary,Management,30,CLIENT,0,1
+152,4020640000006636,Female,Married,Deputy Sales Manager,960000.0,Employee,more than 10 years,Graduate,unknown,4 or more,Salary and Rent,unknown,0,CLIENT,0,1
+153,4020641000004555,Male,Married,Messsenger,396000.0,Employee,5 to 10 years,unknown,SCB ( Salary A/C),2,Salary,Communication,38,CLIENT,0,0
+155,4020640000004615,Male,Married,Captain,436200.0,Army,unknown,Graduated,None,unknown,Salary,Army Officer,38,CLIENT,1,2
+157,4020641000006337,Male,Married,Assistant Manager,unknown,Employee,5 to 10 years,Graduate,unknown,2,Salary,Employee,54,CLIENT,0,0
+162,4020641000006196,Male,Married,Flight Manager,480000.0,Employee,2 to 5 years,unknown,None,1,Salary,Employee,31,CLIENT,0,0
+163,4020641000011238,Male,unknown,unknown,1020000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,44,CLIENT,0,0
+164,4020641000008093,Male,Married,Chairman,1336768.56,Self-employed,More than 10 years,Post-graduated,None,3,Business,Entrepreneur,47,CLIENT,0,1
+165,4020641000008010,Male,Married,Director,780000.0,Employee,2 to 5 years,Graduated,Nabil Bank Shangrila Bank,2,Salary,Management,32,CLIENT,0,1
+166,4020641000001114,Male,Married,Proprietor,14040000.0,Self-employed,More than 10 years,Others,None,3,Business,Entrepreneur,47,CLIENT,0,1
+170,4020641000007665,Male,Married,Sales Manager,480000.0,Employee,2 to 5 years,Graduated,None,1,Salary,Sales Specialist,37,CLIENT,0,0
+171,4020640000003583,Male,Married,Physician,448140.0,Employee,2 to 5 years,Post-graduated,NB Bank saving A/C,2.0,Salary,Physician,37,CLIENT,0,1
+173,4020641000006162,Male,Married,Proprietor,3084000.0,Self-employed,2 to 5 years,unknown,None,3,Business,Entrepreneur,52,CLIENT,0,1
+174,4020641000001601,Male,Married,Deputy Director,1980000.0,Employee,2 to 5 years,Post-graduated,None,3,Salary,Banker,50,CLIENT,0,0
+175,4020641000005073,Male,Married,Proprietor,1164000.0,Self-employed,2 to 5 years,Under Graduated,None,greater than 3,Business,Entrepreneur,44,CLIENT,0,0
+177,4020641000006873,Male,Married,Director,1200000.0,Self-employed,5 to 10 years,Others,None,2,Business,Investor,33,CLIENT,0,1
+178,4020641000006063,Male,Unmarried,unknown,459600.0,confidential,More than 10 years,Graduated,unknown,2,Salary,unknown,38,CLIENT,0,0
+179,4020641000000108,Male,Married,Chief Finance Officer,780000.0,Employee,2 to 5 years,unknown,Global IME Bank Saving A/C,2,Salary,Finance Officer,0,CLIENT,0,1
+182,4020641000008242,Male,Married,unknown,2400000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,29,CLIENT,0,1
+183,4020641000009885,Male,Married,Director,3996000.0,Self-employed,More than 10 years,unknown,None,3,Business,Entrepreneur,41,CLIENT,0,0
+187,4020641000007178,Male,Married,CEO,624000.0,Self-employed,5 to 10 years,unknown,None,greater than 3,Business,Entrepreneur,43,CLIENT,0,0
+189,4020640000004342,Male,Married,1208496,unknown,confidential,unknown,Post Graduate,unknown,unknown,unknown,unknown,39,CLIENT,0,1
+190,4020641000011451,Male,Married,Proprietor,1216164.0,Self-employed,More than 10 years,unknown,None,3,Business,Entrepreneur,55,CLIENT,0,0
+191,4020641000004027,Female,Married,Chartered Accountant,648000.0,Employee,5 to 10 years,Others,NMB ( Saving A/C),0,Salary,Chartered Accountant,29,CLIENT,0,0
+193,4020641000010669,Male,Unmarried,Designing Engineer,297000.0,Employee,2 to 5 years,Under Graduated,None,0,Salary,Engineer,22,CLIENT,0,0
+194,4020641000000520,Female,Married,Propreitor,1332000.0,Self-employed,2 to 5 years,unknown,NIC Asia Bank,2,Business,Entrepreneur,0,CLIENT,2,3
+196,4020641000010628,Male,Married,Assitant Manager,604800.0,Employee,More than 10 years,Graduated,None,greater than 3,Salary,Management,40,CLIENT,0,0
+197,4020641000011436,Male,Unmarried,Lawyer,486000.0,Employee,2 to 5 years,Post-graduated,None,2,Salary,lawyer,32,CLIENT,0,0
+199,4020640000003740,Male,Unmarried,Managing DIrector,1273884.0,Employee,5 to 10 years,Graduated,None,2.0,Salary,Manager,33,CLIENT,0,1
+202,4020641000009414,Male,Married,unknown,4800000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,41,CLIENT,0,1
+204,4020641000008002,Male,Married,Managing Director,720000.0,Employee,2 to 5 years,Others,Nabil Bank Limited ( Saving A/C),0,Salary,Management Specialist,28,CLIENT,0,1
+205,4020641000002989,Male,Unmarried,Accountant,600000.0,Employee, 2 to 5 years,Graduated,NIC Asia Bank BOK ( Saving A/C),0,Salary,Finance,23,CLIENT,0,0
+206,4020640000005679,Male,Married,Director,3000000.0,Self-employed,unknown,Graduate,unknown,unknown,House Rent,unknown,0,CLIENT,0,2
+211,4020641000007608,Male,Unmarried,Clerk,290280.0,Employee,2 to 5 years,Post-graduated,None,0,Salary,Office helper,26,CLIENT,0,0
+214,4020641000000694,Female,Married,unknown,2784000.0,Self-employed,unknown,unknown,unknown,3,Business,unknown,38,CLIENT,0,3
+217,4020641000004357,Male,Married,Assitant DIrector,1500000.0,Employee,More than 10 years,Post-graduated,Nepal Rastra Bank,2,Salary,Banker,46,CLIENT,0,0
+222,4020641000005388,Male,Married,Assistant Director,unknown,Employee,more than 10 years,Post Graduate,unknown,Salary,Banker,Government,52,CLIENT,0,0
+223,4020641000003839,Male,Married,unknown,753744.0,Employee,More than 10 years,Post-graduated,None,3,Salary,Police ,54,CLIENT,0,0
+224,4020641000001130,Male,Married,Proprietor,1944000.0,Self-employed,unknown,unknown,unknown,unknown,Business,Businessman,31,CLIENT,0,4
+227,4020641000012129,Male,Married,Marketing Manager,720000.0,Employee,5 to 10 years,Graduated,Everest Bank Global IME Bank Limited ( Saving A/C),0,Salary,Marketing,26,CLIENT,0,0
+230,4020641000007640,Male,Married,Managing Director,1464000.0,Self-employed,5 to 10 years,Under Graduated,None,3,Business,Entrepreneur,65,CLIENT,0,1
+232,4020641000007541,Male,Unmarried,unknown,420000.0,Employee,2 to 5 years,Graduated,Nepal SBI Bank Limited NCC Bank Limited Rastriya Banijya Bank ( Saving A/C),0,Salary,Officer,28,CLIENT,0,0
+233,4020641000008473,Male,Married,unknown,1476000.0,Self-employed,More than 10 years,Graduated,None,2,Business,Entrepreneurs,34,CLIENT,0,1
+236,4020640000004268,Male,Married,Proprietor,580800.0,Self-employed,unknown,Graduated,None,unknown,Business,Entrepreneur,36,CLIENT,1,3
+239,4020641000004274,Male,Unmarried,Senior Marketing Manager,936000.0,Employee,5 to 10 years,Graduated,Nabil Bank Limited ( Credit Card),0,Salary,Marketing,29,CLIENT,0,1
+242,4020640000004086,Male,Married,Head Assitant,1080000.0,Employee,unknown,unknown,None,unknown,Salary,Banker,50,CLIENT,0,1
+250,4020641000003235,Male,Married,Assistant Manager,790800.0,Employee,2 to 5 years,Graduated,None,0,Salary,Assitant Manager,35,CLIENT,0,1
+252,4020641000008101,Male,Unmarried,Managing Director,1320000.0,Self-employed,2 to 5 years,unknown,Global IME Bank Limited (Saving A/C),0,Business,Entrepreneur,0,CLIENT,0,0
+253,4020641000006410,Female,Married,Proprietor,unknown,Self-employed,unknown,Under Graduate,unknown,Business,Business women,Private,33,CLIENT,0,1
+254,4020641000007046,Male,Married,Proprietor,unknown,Self-employed,unknown,Graduate,unknown,Business,Business man,Private,45,CLIENT,0,0
+255,4020641000011204,Male,Married,unknown,900000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,48,CLIENT,0,0
+256,4020641000004753,Male,Unmarried,Deputy Manager,526800.0,Employee,5 to 10 years,Graduated,None,0,Salary,Management,29,CLIENT,0,1
+258,4020641000007715,Male,Married,Proprietor,1071000.0,Self-employed,5 to 10 years,Others,None,greater than 3,Business,Entrepreneur,42,CLIENT,0,1
+259,4020641000001619,Male,Married,unknown,2040000.0,confidential,2 to 5 years,Graduated,None,3,Salary,unknown,0,CLIENT,0,2
+260,4020641000007194,Male,Married,Assitant Manager,600000.0,Employee,2 to 5 years,Post-graduated,Nepal Rastra Bank,2,Salary,Banker,36,CLIENT,0,0
+264,4020640000004102,Female,Married,Director,840000.0,Employee,unknown,Graduated,Nepal Investment Bank Limited(NIBL),unknown,Salary,Management,43,CLIENT,0,0
+269,4020641000000678,Male,Married,unknown,2136000.0,Self-employed,2 to 5 years,unknown,None,greater than 3,Business,Entrepreneur,43,CLIENT,0,1
+274,4020641000006105,Male,Married,Helpline Operator,360000.0,Employee,2 to 5 years,Graduated,None,1,Salary,Customer Care,27,CLIENT,0,0
+277,4020641000006980,Male,Married,Chairman,1812000.0,Employee,2 to 5 years,unknown,None,3,Salary,Leadership,36,CLIENT,0,0
+279,4020641000007707,Female,Unmarried,Jr. Business Analyst,unknown,Employee,0 to 2 years,unknown,unknown,None,Salary,Employee,27,CLIENT,0,0
+280,4020641000006170,Male,Married,Proprietor,unknown,Self-employed,unknown,Under Graduate,unknown,Business,Businessman,Private,38,CLIENT,0,1
+292,4020641000010370,Male,Married,Proprietor,2460000.0,Self-employed,5 to 10 years,unknown,None,2,Business,Entrepreneur,40,CLIENT,0,1
+294,4020641000004381,Male,Married,Proprietor,2602080.0,Self-employed,More than 10 years,Graduated,None,2,Business,Entrepreneur,44,CLIENT,0,1
+301,4020641000006253,Male,Married,Accountant,unknown,Employee,more than 10 years,unknown,unknown,Salary,Employee,Private,44,CLIENT,0,0
+302,4020641000003607,Male,Unmarried,Teacher,420000.0,Employee,More than 10 years,Graduated,None,2,Salary,Teaching,34,CLIENT,0,1
+305,4020641000006758,Male,Married,Teacher,420000.0,Employee,0 to 2 years,Graduated,Everest Bank ( Saving A/C) NIBL( Saving A/C),unknown,unknown,Teaching,27,CLIENT,0,0
+306,4020640000007584,Male,Married,Proprietor,1827972.0,Self-employed,unknown,Post Graduate,unknown,unknown,Business and salary,Businessmna,0,CLIENT,0,3
+307,4020641000006097,Female,Unmarried,Assistant,528000.0,Employee,5 to 10 years,Under Graduated,None,1,Salary,Management,50,CLIENT,0,1
+308,4020641000006923,Male,Married,Assistant Director,unknown,Employee,more than 10 years,Post Graduate,Sanima Bank NCC Bank Mega Bank,Salary,Banker,Government,51,CLIENT,0,0
+309,4020641000008051,Male,Married,Proprietor,960000.0,Self-employed,2 to 5 years,unknown,Nabil Bank  Everest Bank ( Saving A/C),2,Business,Entrepreneur,29,CLIENT,0,0
+313,4020641000008077,Male,Married,Vice- principal,720000.0,Employee,More than 10 years,Post-graduated,Prime Bank ( Teacher Saving A/C),2,Salary,Leadership,34,CLIENT,0,0
+318,4020641000003383,Male,Married,Director,900000.0,Employee,unknown,unknown,None,unknown,Salary,Management,45,CLIENT,0,1
+319,4020641000009893,Male,Married,Chairman,3000000.0,Self-employed,2 to 5 years,Post-graduated,None,1,Business,Entrepreneur,77,CLIENT,0,0
+320,4020641000003359,Male,Married,Messenger,504000.0,Employee,5 to 10 years,unknown,None,3,Salary,Communiction,44,CLIENT,0,1
+323,4020641000009455,Male,Married,unknown,4800000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,0,CLIENT,0,0
+324,4020641000005107,Male,Married,unknown,4800000.0,Self-employed,5 to 10 years,Under Graduated,None,greater than 3,Business,Entrepreneur,54,CLIENT,0,1
+325,4020640000008913,Male,Married,Sr. Officer,7464000.0,Employee,3 to 5 years,Graduate,unknown,unknown,Salary,Banker,34,CLIENT,0,0
+327,4020641000002906,Female,Married,Head Assistant,1224000.0,Employee,2 to 5 years,Post-graduated,None,2,Salary,Banker,30,CLIENT,0,0
+331,4020640000003658,Male,Married,Government Employee,unknown,confidential,unknown,unknown,unknown,unknown,unknown,unknown,34,CLIENT,0,0
+334,4020641000004639,Male,Married,Proprietor,1020000.0,Self-employed,2 to 5 years,Graduated,None,1,Business, Entrepreneur,29,CLIENT,0,1
+335,4020641000004290,Male,Married,Proprietor,1236000.0,Self-employed,unknown,unknown,Prashu Bank ,unknown,Business,Entrepreneur,36,CLIENT,1,2
+337,4020641000010198,Female,Married,unknown,336000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,54,CLIENT,0,0
+338,4020641000010784,Male,Married,Proprietor,1536000.0,Self-employed,2 to 5 years,Graduated,None,1,Business,Entrepreneur,31,CLIENT,0,0
+339,4020641000011626,Male,Married,Retired Army,971088.0,Self-employed,More than 10 years,Under Graduated,None,greater than 3,Pension,Retired Army,46,CLIENT,0,0
+347,4020640000007766,Male,Married,unknown,7464000.0,Self-employed,unknown,unknown,unknown,unknown,Business,unknown,0,CLIENT,0,2
+348,4020641000003334,Male,Unmarried,Sales and Marketing,444000.0,Employee,2 to 5 years,Post-graduated,None,0,Salary,Management,28,CLIENT,0,0
+349,4020641000009034,Male,Married,Director,2400000.0,Employee,More than 10 years,Post-graduated,JBBL,2,Salary,Management Specialist,43,CLIENT,0,0
+351,4020641000009273,Male,Unmarried,Police Officer,350693.28,Employee,5 to 10 years,Graduated,None,0,Salary,Police ,28,CLIENT,0,0
+354,4020641000011014,Male,Married,unknown,612000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,34,CLIENT,0,0
+357,4020641000007475,Male,Married,Proprietor,unknown,Self-employed,unknown,Under Graduate,unknown,Business,Businessman,Private,45,CLIENT,0,0
+361,4020641000006998,Male,Married,unknown,4140000.0,Self-employed,2 to 5 years,Graduated,None,2,Rent,Entrepreneur,56,CLIENT,0,1
+365,4020641000006071,Male,Married,Assistant Director,1571820.0,Employee,More than 10 years,Post-graduated,Nepal Rastra Bank,greater than 3,Salary,Banker,47,CLIENT,0,1
+367,4020641000010057,Male,Married,Driver,336000.0,Employee,5 to 10 years,Others,None,2,Salary,Driver,38,CLIENT,0,0
+369,4020641000006014,Male,Married,Proprietor,1200000.0,Self-employed,unknown,unknown,None,unknown,Business,Enrtrepreneur,47,CLIENT,0,1
+372,4020641000004779,Male,Married,unknown,10044000.0,Self-employed,2 to 5 years,unknown,None,3,Business,Entrepreneur,44,CLIENT,0,0
+373,4020640000008426,Male,Married,unknown,unknown,Self-employed,unknown,unknown,unknown,unknown,Business,Businessman,0,CLIENT,0,3
+375,4020640000005562,Male,unknown,Proprietor,unknown,Self-employed,unknown,unknown,unknown,unknown,Business,Businessman,0,CLIENT,0,5
+377,4020641000003110,Female,unknown,Proprietor,1551000.0,Self-employed,2 to 5 years,Under Graduated,None,3,Business,Entrepreneur,49,CLIENT,0,0
+384,4020641000004175,Male,Married,Assitant Director,1500000.0,Employee,More than 10 years,Post-graduated,Nepal Rastra Bank,1,Salary,Banker,48,CLIENT,0,0
+387,4020641000007582,Male,Unmarried,Officer,unknown,Employee,0 to 2 years,Graduate,unknown,None,Salary,Employee,25,CLIENT,0,0
+388,4020641000003078,Male,Married,Marketing Officer,794400.0,Employee,More than 10 years,Graduated,None,2,Salary,Marketing,31,CLIENT,0,0
+390,4020641000011808,Male,Married,Proprietor,1800000.0,Self-employed,2 to 5 years,Under Graduated,None,1,Business,Entrepreneur,41,CLIENT,0,0
+391,4020641000006899,Male,Married,Program Manager,822900.0,Employee,More than 10 years,Post-graduated,None,greater than 3,Salary,Management,36,CLIENT,0,0
+392,4020641000012111,Male,Married,CEO,1500000.0,Self-employed,2 to 5 years,unknown,unknown,3,Business,Leadership,37,CLIENT,0,0
+395,4020641000007491,Male,Married,Proprietor,unknown,Self-employed,unknown,unknown,NIC Asia,Business,Businessman,Private,50,CLIENT,0,1
+397,4020641000003250,Male,Married,Proprietor,1297308.0,Self-employed,unknown,Under Graduated,None,unknown,Business,Entrepreneur,34,CLIENT,0,1
+398,4020641000004696,Male,Married,Consultant Psychiologist,unknown,Employee,2 to 5 Years,unknown,unknown,Salary,Doctor,Government,34,CLIENT,0,0
+403,4020641000007723,Male,Married,Supervisor,355200.0,Employee,2 to 5 years,unknown,None,greater than 3,Salary,Supervisor,27,CLIENT,0,0
+404,4020641000006089,Male,Unmarried,Executive Chairmen,2040000.0,Self-employed,2 to 5 years,Graduated,Global Bank Limited ( Saving A/C),0,Business,Management,28,CLIENT,1,2
+409,4020641000002534,Male,Married,Self Employed,unknown,confidential,unknown,unknown,unknown,unknown,unknown,unknown,38,CLIENT,0,0
+411,4020641000006204,Male,Married,General Manager,2550000.0,Employee,5 to 10 years,unknown,None,0,Salary,Management,34,CLIENT,0,0
+412,4020641000008515,Male,Married,Managing Director,840000.0,Employee,5 to 10 years,Graduated,None,greater than 3,Salary,Management Specialist,50,CLIENT,0,0
+413,4020641000004092,Male,Unmarried,Assistant Director,1500000.0,Employee,2 to 5 years,Graduated,Nepal Rastra Bank,0,Salary,Banker,32,CLIENT,0,1
+415,4020641000005479,Male,Married,Managing Director,unknown,Employee,0 to 2 years,unknown,NBL ADBL,Business,Businessman,Private,37,CLIENT,0,1
+417,4020641000003532,Male,Unmarried,Accountant,2400000.0,Self-employed,2 to 5 years,Post-graduated,None,unknown,Business,Finance,29,CLIENT,0,0
+418,4020640000007519,Male,Married,Proprietor,unknown,Self-employed,unknown,Graduate,unknown,unknown,Business,unknown,41,CLIENT,0,2
+421,4020640000005497,Male,Married,Proprietor,unknown,confidential,unknown,unknown,unknown,unknown,Business,Businessman,0,CLIENT,0,3
+422,4020641000004308,Male,Married,unknown,1284000.0,Employee,unknown,Post-graduated,None,unknown,Salary,Mangement,45,CLIENT,0,1
+426,4020641000006782,Male,Unmarried,Assistant,unknown,Employee,unknown,unknown,unknown,None,Salary,Employee,27,CLIENT,0,0
+434,4020641000003144,Male,Unmarried,Assitant,1097112.0,Employee,2 to 5 years,Graduated,Nepal Rastra Bank,2,Salary,Banker,29,CLIENT,0,0
+435,4020641000003128,Male,Married,Proprietor,2070999.6,Self-employed,5 to 10 years,unknown,N,greater than 3,Business Rent,Entrepreneur,36,CLIENT,0,0
+440,4020641000004019,Female,Married,Senior Officer,480000.0,Employee,5 to 10 years,unknown,Laxmi Bank Standard Bank ( Saving A/C),1,Salary,Insurance Officer,32,CLIENT,0,0
+442,4020641000000454,Male,unknown,Assistant General Manager,1560000.0,Employee,2 to 5 years,unknown,None,2,Salary,Manager,33,CLIENT,0,1
+446,4020641000003565,Male,Married,Proprietor,952992.0,Self-employed,2 to 5 years,unknown,None,2,Business,Business,35,CLIENT,0,0
+447,4020640000004045,Female,Unmarried,Associate software Engineer,600000.0,Employee,2 to 5 years,Graduated,None,0.0,Salary,Software Engineer,27,CLIENT,0,0
+448,4020641000005644,Male,Married,Proprietor,1464000.0,Self-employed,unknown,Under Graduated,None,unknown,Business, Entrepreneur,42,CLIENT,0,1
+452,4020640000006917,Male,Married,Managing Director,1680000.0,Self-employed,more than 10 years,unknown,Nabil Bank Limited Saving,unknown,Salary,Business Man,34,CLIENT,0,1
+459,4020641000004662,Male,Married,Senior Assistant Officer,336000.0,Employee,2 to 5 years,unknown,SCB ( Salary A/C),1,Salary,Management,31,CLIENT,0,1
+461,4020641000011691,Male,Married,Teacher,758640.0,Employee,5 to 10 years,Post-graduated,Rastriya Banijya Bank- Saving A/C,1,Salary,Teaching,32,CLIENT,0,0
+462,4020641000004084,Male,Married,Deputy Director,1500000.0,Employee,5 to 10 years,Post-graduated,Nepal Rastra Bank,1,Salary,Banker,38,CLIENT,0,0
+466,4020641000002302,Female,Unmarried,unknown,1104000.0,confidential,unknown,unknown,None,unknown,unknown,unknown,38,CLIENT,0,1
+467,4020641000011881,Male,unknown,unknown,4800000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,51,CLIENT,0,0
+471,4020641000007277,Male,Married,Proprietor,1307055.0,Self-employed,2 to 5 years,Under Graduated,None,3,Business,Entrepreneur,36,CLIENT,0,0
+472,4020641000003896,Male,Unmarried,Civil Engineer,360000.0,Employee,2 to 5 years,unknown,None,0,Salary,Engineer,27,CLIENT,0,2
+476,4020641000002963,Male,Married,Proprietor,1248000.0,Self-employed,2 to 5 years,unknown,None,3,Business,Entrepreneur,34,CLIENT,0,0
+477,4020641000007509,Male,Married,Founder,unknown,Employee,unknown,unknown,RBB Saving NIC Asia Saving,Salary,unknown,Private,38,CLIENT,0,1
+478,4020641000006022,Male,Married,unknown,unknown,confidential,unknown,unknown,None,unknown,Salary,unknown,46,CLIENT,0,1
+480,4020641000009539,Male,Married,Assistant Manager,unknown,Employee,0 to 2 years,unknown,unknown,Salary,Employee,Private,30,CLIENT,0,1
+482,4020641000003474,Male,Married,unknown,1178304.0,Employee,5 to 10 years,Post-graduated,None,2,Salary,Banker,28,CLIENT,0,0
+484,4020641000007210,Male,Married,Assitant,660000.0,Employee,2 to 5 years,Graduated,None,2,Salary,Banker,33,CLIENT,0,1
+485,4020641000000058,Male,unknown,unknown,3108000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,41,CLIENT,0,2
+487,4020641000007756,Male,Unmarried,Business Analyst,1440000.0,Employee,2 to 5 years,Graduated,None,0,Salary,Business Analyst,28,CLIENT,0,0
+488,4020641000004985,Male,Married,Driver,600000.0,Self-employed,2 to 5 years,Under Graduated,None,2,Business,Driver,27,CLIENT,0,1
+491,4020641000007798,Male,Unmarried,unknown,600000.0,confidential,unknown,unknown,unknown,Salary,Employee,Private,23,CLIENT,0,1
+492,4020640000006560,Male,Single,unknown,unknown,Employee,unknown,unknown,unknown,unknown,Salary,unknown,0,CLIENT,0,4
+493,4020640000004144,Male,Married,Proprietor,1308000.0,Self-employed,unknown,unknown,None,unknown,Business,Entrepreneur,45,CLIENT,0,1
+494,4020641000004134,Male,Married,Assistant Director,1500000.0,Employee,5 to 10 years,Post-graduated,Nepal Rastra Bank,2,Salary,Banker,31,CLIENT,0,0
+496,4020640000004227,Male,Married,Finance Officer,1575000.0,Employee,0 to 2 years,Graduate,Standard Chartered Bank,unknown,Salary,Employee,32,CLIENT,0,1
+498,4020641000003466,Male,Married,Propreitor,2652999.96,Self-employed,Over 10 years, ,None,Greater than 3,Business,Entrepreneur,35,CLIENT,0,2
+502,4020641000003169,Male,Married,Assistant director,1357356.0,Employee,2 to 5 years,Graduated,None,2,Salary,Banker,32,CLIENT,0,0
+504,4020641000004688,Male,Married,Assistant Director,unknown,Employee,More than 10 years,Graduate,Nepal Rastra Bank ,Salary,Banker,Government,52,CLIENT,0,0
+505,4020641000006725,Male,Married,Sales Manger,480000.0,Employee,More than 10 years,unknown,None,1,Salary,Sales,39,CLIENT,0,1
+506,4020640000003971,Male,Married,unknown,756000.0,Employee,unknown,Under Graduated,None,unknown,Business,Businessman,31,CLIENT,0,3
+509,4020640000008517,Female,unknown,unknown,597000.0,Self-employed,unknown,Post Graduate,unknown,2,Business,Businessman,0,CLIENT,0,2
+510,4020641000004167,Female,Married,Assitant DIrector,1500000.0,Employee,5 to 10 years,Post-graduated,Nepal Rastra Bank,1,Salary,Banker,34,CLIENT,0,0
+512,4020641000002971,Male,Married,Proprietor,2016000.0,Self-employed,5 to 10 years,unknown,unknown,3,Business,Entrepreneur,36,CLIENT,0,0
+513,4020641000007228,Male,Married,Owner,unknown,Self-employed,unknown,Post Graduate,unknown,2,Business,Business man,39,CLIENT,0,1
+517,4020641000009919,Male,Married,Chairman,1730640.0,Employee,5 to 10 years,Post-graduated,NIC Bank Limited- Home loan Credit card( Citizen Bank - Saving A/C),3,Salary,Leadership,42,CLIENT,0,1
+518,4020641000001981,Male,Married,unknown,377760.0,Employee,unknown,Under Graduate,unknown,3,Salary Rent Agriculture,unknown,36,CLIENT,0,0
+521,4020640000005521,Female,Married,Director,unknown,confidential,unknown,Under Graduate,unknown,unknown,unknown,unknown,0,CLIENT,0,3
+522,4020641000003052,Male,Married,Proprietor,1668000.0,Self-employed,5 to 10 years,unknown,None,3,Business,Entrepreneur,33,CLIENT,0,1
+523,4020640000008434,Male,Married,Principal,unknown,Employee,More than 10 years,unknown,Nabil Bank Saving,unknown,Salary,Teacher,48,CLIENT,0,0
+524,4020641000003847,Female,Married,unknown,unknown,Self-employed,unknown,unknown,unknown,Business,Business women,Private,35,CLIENT,0,0
+526,4020640000003716,Female,Married,Staff Nurse,480000.0,Employee,unknown,unknown,NBL Saving,2.0,Salary OT,Nurse,25,CLIENT,0,4
+527,4020641000002872,Male,Married,Assistant,unknown,Employee,5 to 10 years,Post Graduate,unknown,Salary,Banker,Government,37,CLIENT,0,0
+529,4020641000003557,Male,Married,Director,2340000.0,Employee,More than 10 years,unknown,None,2,Salary,Management,35,CLIENT,0,0
+531,4020641000001122,Male,Married,Instructor,1200000.0,Employee,unknown,unknown,unknown,4 or more,Salary,unknown,36,CLIENT,0,3
+533,4020641000003060,Male,Married,Proprietor,2728800.0,Self-employed,2 to 5 years,Post-graduated,None,greater than 3,Salary,Entrepreneur,44,CLIENT,0,0
+541,4020641000003243,Male,Married,Manager,906480.0,Employee,2 to 5 years,Graduated,Nabil BankNIC Asia OM Devlopment Bank ( Saving A/C),0,Salary,Mangement,30,CLIENT,0,0
+543,4020641000012137,Female,Unmarried,Coordinator,600000.0,Employee,2 to 5 years,Graduated,None,0,Salary,Program Coordinator,42,CLIENT,0,0
+544,4020641000006907,Male,Married,Assistant Director,1692000.0,Employee,More than 10 years,Graduated,Nepal Rastra Bank Nepal Investement Bank Nepal Bangladesh Bank,2,Business,Banker,48,CLIENT,0,0
+545,4020641000010263,Male,Married,Driver,1500000.0,Self-employed,More than 10 years,Under Graduated,None,3,Business,Taxi Driver,36,CLIENT,0,0
+548,4020641000000876,Male,Married,MD,374736.0,Self-employed,5 to 10 years,Post-graduated,unknown,3,Business,unknown,42,CLIENT,0,1
+550,4020641000012178,Male,Married,Manager,552000.0,Employee,2 to 5 years,Graduated,Kumari Bank- Home Loan Nabil Bank-Saving A/C (Credit Card),2,Salary,Management,43,CLIENT,0,0
+551,4020641000008614,Male,Married,unknown,300000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,31,CLIENT,0,1
+552,4020641000009778,Male,Married,unknown,420000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,24,CLIENT,0,0
+553,4020641000006303,Male,Married,Managing Director,1560000.0,Employee,More than 10 years,unknown,None,1,Salary,Management,68,CLIENT,0,1
+558,4020640000005802,Female,Married,Proprietor,1560000.0,Self-employed,unknown,unknown,unknown,unknown,Business,Business women,0,CLIENT,0,2
+560,4020641000006915,Male,Married,Managing Director,1020000.0,Employee,5 to 10 years,Graduated,unknown,3,Salary,Management,42,CLIENT,0,1
+561,4020641000006220,Male,Married,Managing Director,720000.0,Employee,2 to 5 years,Graduated,Prabhu Bank( Saving A/C  Normal A/C),2,Salary,Management,45,CLIENT,0,0
+566,4020641000005453,Male,Unmarried,Shareholder,600000.0,Self-employed,2 to 5 years,unknown,None,1,Business,Investor,25,CLIENT,0,0
+568,4020640000007501,Male,unknown,Proprietor,1248000.0,Self-employed,unknown,unknown,None,unknown,Business,Businessman,0,CLIENT,0,2
+570,4020641000009562,Female,Married,Assitant Manager,300000.0,Employee,5 to 10 years,Graduated,CIVIL Bank Limited ( Saving A/C),0,Salary,Management,28,CLIENT,0,1
+571,4020641000001239,Male,Married,unknown,3600000.0,Self-employed,unknown,unknown,unknown,4 or more,Business,Businessman,0,CLIENT,0,2
+572,4020640000007782,Female,Married,unknown,1800000.0,Self-employed,unknown,unknown,unknown,4 or more,Business,Businessman,33,CLIENT,0,1
+576,4020640000003955,Male,Unmarried,Owner,1620000.0,Self-employed,unknown,unknown,unknown,unknown,Business,Businessman,29,CLIENT,0,0
+580,4020641000007467,Male,Married,Proprietor,720000.0,Self-employed,More than 10 years,Under Graduated, Nepal Investment Bank ( Saving A/C),2,Business,Entrepreneur,48,CLIENT,0,0
+583,4020641000002922,Male,Married,Assistant,1144500.0,Employee,More than 10 years,Post-graduated,None,2,Salary,Banker,30,CLIENT,0,1
+584,4020641000008531,Male,Unmarried,Senior Trainer,372000.0,Employee,2 to 5 years,Post-graduated,Everest Bank ( Saving A/C),0,Salary,Trainer,25,CLIENT,0,0
+585,4020641000003433,Male,Married,Managing Director,2400000.0,Employee,5 to 10 years,unknown,None,unknown,Salary,Management,41,CLIENT,0,1
+588,4020641000005412,Male,Married,Deputy Director,1014720.0,Employee,5 to 10 years,unknown,Nepal Rastra Bank,0,Salary,Banker,36,CLIENT,0,0
+593,4020640000003682,Male,Married,MD,855996.0,Self-employed,unknown,Graduate,unknown,3.0,Business,Business man,40,CLIENT,0,1
+595,4020641000005628,Male,Married,Proprietor,3284000.04,Self-employed,More than 10 years,unknown,Prabhu Bank ( Credit Crad),greater than 3,Business,Entrepreneur,37,CLIENT,0,1
+596,4020641000010149,Male,Married,unknown,1200000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,48,CLIENT,0,0
+599,4020641000011683,Male,Unmarried,unknown,5160000.0,Self-employed,unknown,unknown,unknown,Business,unknown,Private,30,CLIENT,0,0
+600,4020641000005008,Male,Unmarried,Corporate junior assistance,492000.0,Employee,2 to 5 years,Post-graduated,Nepal Bangladesh Bank Limited ( Saving A/C),0,Salary,Banker,30,CLIENT,0,0
+604,4020641000004514,Female,Unmarried,Project Coordinator,660000.0,Employee,2 to 5 years,unknown,SCB ( Saving A/C),0,Salary,Coordinator Offficer,30,CLIENT,0,0
+606,4020641000006030,Male,Married,unknown,unknown,Self-employed,unknown,unknown,unknown,Business,Businessman,Private,44,CLIENT,0,1
+607,4020641000005016,Male,Married,Production Incharge,192000.0,Employee,unknown,Graduated,unknown,3,Salary,Self employed,39,CLIENT,0,0
+614,4020640000008590,Male,Married,Owner,2064000.0,Self-employed,unknown,Poat Graduate,unknown,unknown,Business,Businessman,0,CLIENT,0,0
+618,4020641000002948,Male,Married,unknown,3600000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,49,CLIENT,0,1
+620,4020641000009315,Male,Married,Proprietor,1200000.0,Employee,2 to 5 years,unknown,None,2,Salary,Management specialist,36,CLIENT,0,0
+628,4020641000009356,Male,Married,unknown,unknown,Self-employed,unknown,Graduate,unknown,1,Business,Business man,-11,CLIENT,0,1
+630,4020641000004282,Male,Married,Self-employed,1056000.0,Employer,5 to 10 years,Graduated,None,2,Business,Entrepreneur,37,CLIENT,0,2
+634,4020641000005370,Male,Married,Asssitant Director,1500000.0,Employee,More than 10 years,Post-graduated,Nepal Rastra Bank,2,Salary,Banker,46,CLIENT,0,0
+637,4020641000006261,Female,Unmarried,Assistant Accountant,unknown,Employee,2 to 5 years,Graduate,unknown,None,Salary,Employee,24,CLIENT,0,0
+639,4020641000005024,Male,Unmarried,unknown,540000.0,confidential,unknown,Post-graduated,unknown,2,Salary,unknown,26,CLIENT,0,0
+642,4020641000005362,Male,Married,Assistant Director,1500000.0,Employee,More than 10 years,Post-graduated,Nepal Rastra Bank,2,Salary,Banker,43,CLIENT,0,0
+646,4020641000007392,Male,Unmarried,Head Human Resource,unknown,Employee,5 to 10 years,Post Graduate,unknown,2,Salary,Employee,30,CLIENT,0,0
+654,4020640000005505,Male,Married,unknown,2364000.0,Self-employed,unknown,Under graduate,unknown,unknown,Business,Businessman,0,CLIENT,0,2
+658,4020641000005461,Female,Married,unknown,2400000.0,confidential,unknown,unknown,unknown, equals to 1,Business,Entrepreneur,28,CLIENT,0,1
+674,4020641000012061,Male,Married,unknown,300000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,64,CLIENT,0,0
+677,4020641000009489,Male,Married,unknown,1200000.0,confidential,unknown,unknown,unknown,2,Business,Business man,0,CLIENT,0,1
+690,4020641000007285,Male,Married,Proprietor,unknown,Self-employed,unknown,unknown,unknown,3,Business,Business man,42,CLIENT,0,0
+706,4020641000010107,Male,Married,unknown,3000000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,39,CLIENT,0,0
+712,4020641000009331,Male,Married,Proprietor,1680000.0,Self-employed,2 to 5 years,Under Graduated,None,1,Business,Management Specialist,39,CLIENT,0,0
+715,4020641000010008,Male,Unmarried,Manager,unknown,Employee,5 to 10 years,Post Graduate,unknown,2,Salary,Employee,29,CLIENT,0,0
+717,4020641000003805,Male,Married,Senior Finance Officer,519996.0,Employee,5 to 10 years,unknown,Siddartha Bank limited saving A/C,3,Salary,Financial Officer,0,CLIENT,0,0
+718,4020641000007970,Male,Married,Managing Director,720000.0,Employee,unknown,unknown,Nabil Bank Global IME,3,Salary,Employee,38,CLIENT,0,1
+737,4020640000007683,Male,Married,Proprietor,1404000.0,confidential,unknown,Graduate,unknown,unknown,Business,Businessman,35,CLIENT,0,1
+743,4020641000004001,Male,Married,CEO,523226.76,Employee,2 to 5 years,Graduated,None,greater than 3,Salary,unknown,28,CLIENT,0,2
+748,4020640000007733,Male,unknown,Owner,5436000.0,Self-employed,unknown,Under Graduate,unknown,unknown,Business,Businessman,0,CLIENT,0,2
+750,4020640000004375,Male,Married,Coordinator,960576.0,Employee,More than 10 years,unknown,unknown,unknown,Salary and dividend,unknown,39,CLIENT,0,1
+751,4020641000008887,Male,Married,unknown,600000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,46,CLIENT,0,1
+753,4020641000010776,Male,Married,Managing Director,1200000.0,Self-employed,2 to 5 years,unknown,None,2,Business,Entrepreneur,38,CLIENT,0,0
+757,4020641000007418,Female,Married,Officer,unknown,Employee,5 to 10 years,Post Graduate,None,1,Salary,Employee,33,CLIENT,0,0
+764,4020641000003102,Male,Married,Proprietor,unknown,Employer,More than 10 years,Under Graduated,None,3,Business,Entrepreneur,54,CLIENT,0,0
+766,4020641000004803,Male,Married,Creative Director,1200000.0,confidential,5 to 10 years,Post-graduated,None,0,Salary,Management,30,CLIENT,0,0
+771,4020641000010255,Male,Married,Employee,1200000.0,Employee,2 to 5 years,Graduated,None,3,Salary,unknown,0,CLIENT,0,0
+782,4020641000010123,Male,unknown,unknown,600000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,21,CLIENT,0,0
+790,4020640000007758,Male,Married,unknown,3600000.0,Self-employed,unknown,Graduate,unknown,4 or more,Business,Businessman,0,CLIENT,0,2
+801,4020641000004738,Female,Married,Senior- Officer,564000.0,Employee,2 to 5 years,unknown,None,1,Salary,Management,31,CLIENT,0,0
+804,4020641000009760,Male,Married,unknown,840000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,51,CLIENT,0,0
+810,4020640000005554,Male,unknown,Proprietor,unknown,confidential,unknown,unknown,unknown,unknown,Business,unknown,0,CLIENT,0,0
+822,4020641000011931,Male,Married,unknown,1200000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,28,CLIENT,0,0
+824,4020640000007725,Male,Married,Manager,1480746.0,confidential,unknown,Under Graduate,unknown,unknown,unknown,Entrepreneur,0,CLIENT,0,1
+825,4020641000010651,Male,Married,Proprietor,unknown,Self-employed,3 to 5 years,unknown,unknown,2,Business,Businessman,34,CLIENT,0,0
+830,4020641000011048,Male,Married,unknown,720000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,32,CLIENT,0,0
+831,4020641000009877,Male,Married,unknown,660000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,51,CLIENT,0,0
+841,4020641000003375,Male,Unmarried,JTA,unknown,Employee,0 to 2 years,Others,None,unknown,Salary,Government officer,21,CLIENT,0,1
+844,4020641000007186,Male,Married,Owner,unknown,Self-employed,unknown,Under Graduate,unknown,2,Business,Business man,28,CLIENT,0,0
+846,4020641000008143,Female,Married,unknown,4800000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,57,CLIENT,0,1
+853,4020641000005396,Male,Married,Admission Officer,240000.0,confidential,0 to 2 years,Graduated,unknown,greater than 3,Salary,unknown,28,CLIENT,0,0
+857,4020640000004904,Male,Married,Manager,unknown,Self-employed,unknown,unknown,unknown,unknown,Business,Businessman,0,CLIENT,0,2
+860,4020641000004431,Male,Married,CEO,1356000.0,Employee,More than 10 years,Post Graduate, None,2,Salary,Management,42,CLIENT,0,0
+865,4020641000010164,Male,Married,unknown,unknown,Employee,unknown,unknown,unknown,unknown,Salary,unknown,35,CLIENT,0,0
+868,4020641000007442,Male,Married,Proprietor,unknown,Self-employed,more than 10 years,Under Graduate,unknown,4 dependents or more,Business,Business man,43,CLIENT,0,1
+877,4020641000002880,Male,Unmarried,unknown,unknown,confidential,Employed ,unknown,unknown,unknown,unknown,unknown,35,CLIENT,0,0
+879,4020641000009786,Male,Married,unknown,2400000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,46,CLIENT,0,0
+886,4020641000005040,Male,Married,unknown,777600.0,confidential,unknown,Graduated,unknown, equals to 1,Business,Entrepreneur,32,CLIENT,0,1
+891,4020641000003581,Male,Married,Self-employed,unknown,Employer,2 to 5 years,Post-graduated,None,2,Business,Entrepreneur,29,CLIENT,0,1
+896,4020641000010099,Male,Married,unknown,1200000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,47,CLIENT,0,0
+899,4020641000009901,Male,Married,Sales Manager,unknown,confidential,0 to 2 years,unknown,unknown,equals to 3,Salary,Manager,49,CLIENT,0,0
+904,4020641000006238,Male,Married,Manager,636000.0,Employee,2 to 5 years,Graduated,NIC ASIA Bank Limited ( Saving A/C),1,Salary,Management,38,CLIENT,0,0
+908,4020641000005099,Male,Married,unknown,24000000.0,confidential,unknown,Under Graduated,unknown,greater than 3,Business,Entrepreneur,0,CLIENT,0,1
+918,4020641000009349,Male,Married,Proprietor,1200000.0,Self-employed,2 to 5 years,Under Graduated,Prabhu Bank Lumbihni Bikas Bank ( Saving A/C),3,Business,Entrepreneur,41,CLIENT,0,0
+919,4020641000006345,Male,Married,Program Co-ordinator,unknown,Employee,more than 10 years,unknown,NIBL,2,Salary,Employee,42,CLIENT,0,1
+927,4020641000008259,Male,unknown,unknown,600000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,42,CLIENT,0,1
+938,4020641000003508,Male,Married,ASM,840000.0,Employee,2 to 5 years,Graduated,None,3,Salary,Manager,40,CLIENT,0,0
+951,4020641000008648,Male,Married,unknown,3600000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,35,CLIENT,0,1
+954,4020641000010305,Male,unknown,unknown,1800000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,35,CLIENT,0,0
+966,4020641000004761,Male,Married,School consulting head,600000.0,confidential,5 to 10 years,Others,Prabhu Bank,2,Salary,unknown,39,CLIENT,0,0
+976,4020641000008119,Male,unknown,unknown,4800000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,38,CLIENT,0,1
+979,4020641000004266,Male,Married,Self Employed,1944000.0,Employer,unknown,Under Graduated,None,2,Business,Entrepreneur,41,CLIENT,0,1
+986,4020641000008754,Male,Unmarried,Proprietor,1020000.0,Self-employed,5 to 10 years,Post-graduated,none,3,Business,Entrepreneur,30,CLIENT,0,0
+993,4020641000012145,Female,Married,Assistant,420000.0,Employee,2 to 5 years,Graduated,NCC bank,2,Salary,Banker,0,CLIENT,0,0
+999,4020641000002542,Male,Married,Self Employed,unknown,confidential,unknown,unknown,unknown,unknown,unknown,unknown,39,CLIENT,0,0
+1000,4020641000008234,Male,Married,unknown,720000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,32,CLIENT,0,1
+1002,4020641000009257,Male,Married,Junior Assistant,367920.0,Employee,5 to 10 years,Graduated,Century Bank Limited Saving A/C,0,Salary,Banker,30,CLIENT,0,0
+1005,4020641000010222,Male,Married,unknown,360000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,43,CLIENT,0,0
+1013,4020641000007129,Male,Married,S. Assistant,unknown,Employee,more than 10 years,unknown,unknown,2,Salary,Employee,-11,CLIENT,0,0
+1017,4020641000003516,Male,Unmarried,Bank Partnership Advisor,unknown,Employee,2 to 5 years,unknown,None,0,Salary,Advisor,38,CLIENT,0,0
+1020,4020641000009406,Male,Married,unknown,unknown,Self-employed,unknown,Graduate,unknown,1,Business,Business man,32,CLIENT,0,0
+1025,4020641000005834,Male,Married,ED,unknown,confidential,More than 10 years,Graduated,unknown,greater than 3,Salary,unknown,53,CLIENT,0,0
+1033,4020641000003995,Male,Married,Self Employed,787692.0,Employer,More than 10 years,Under Graduated,None,2,Business,Entrepreneur,32,CLIENT,0,1
+1046,4020641000004530,Male,Married,IT officer,432000.0,confidential,2 to 5 years,Graduated,None, equals to 1,Salary,unknown,30,CLIENT,0,1
+1049,4020641000012020,Male,Married,unknown,432000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,50,CLIENT,0,0
+1050,4020641000008291,Male,Married,unknown,420000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,32,CLIENT,0,1
+1051,4020641000009000,Male,Married,unknown,5000000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,43,CLIENT,0,0
+1064,4020641000008762,Male,Married,Proprietor,unknown,Self-employed,unknown,Post Graduate,unknown,3,Business,Business man,24,CLIENT,0,0
+1076,4020641000009281,Male,Married,Proprietor,1128000.0,Self-employed,5 to 10 years,Under Graduated,None,3,Business,Entrepreneur,31,CLIENT,0,1
+1082,4020641000009422,Male,Married,unknown,1200000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,36,CLIENT,0,0
+1084,4020641000012046,Male,Married,unknown,1200000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,47,CLIENT,0,0
+1091,4020641000009059,Male,Married,Proprietor,516000.0,Self-employed,2 to 5 years,Post-graduated,None,greater than 3,Business,Entrepreneur,31,CLIENT,0,1
+1092,4020641000006766,Male,Married,Proprietor,unknown,Self-employed,unknown,Graduate,unknown,3,Business,Business man,22,CLIENT,0,1
+1102,4020641000009547,Male,Married,Manager,unknown,Employee,0 to 2 years,unknown,unknown,3,Salary,Manager,45,CLIENT,0,1
+1104,4020641000011543,Male,Married,Owner,unknown,Self-employed,unknown,Graduate,unknown,2,Business,unknown,32,CLIENT,0,0
+1106,4020641000009026,Male,Married,unknown,18000000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,49,CLIENT,0,0
+1119,4020641000009299,Male,Married,Proprietor,2628000.0,Self-employed,More than 10 years,unknown,None,greater than 3,Business,Entrepreneur,44,CLIENT,0,0
+1120,4020641000000629,Male,Married,Proprietor,791760.0,Self-employed,5 to 10 years,Graduated,None,greater than 3,Business,Businessman,40,CLIENT,0,1
+1123,4020641000005875,Male,Married,Security Incharge,834060.0,Employee,0 to 2 years,Graduate,unknown,2,Salary,Employee,51,CLIENT,0,1
+1124,4020641000008671,Male,Married,unknown,600000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,39,CLIENT,0,1
+1125,4020641000002450,Male,Married,Managing Director,839842.2000000002,Self-employed,2 to 5 years,Under Graduated,None,2,Business,Entrepreneurs,43,CLIENT,0,0
+1129,4020641000008085,Male,Unmarried,Service and technical head,780000.0,Employee,unknown,unknown,unknown,None,Salary,Employee,28,CLIENT,0,0
+1130,4020640000008392,Male,Married,Proprietor,unknown,Self-employed,unknown,Graduate,unknown,unknown,Business,Businessman,0,CLIENT,0,0
+1134,4020641000005446,Male,Married,Principal,1500000.0,confidential,More than 10 years,Post-graduated,None,greater than 3,Salary,Founder,44,CLIENT,0,0
+1135,4020640000005760,Male,Married,Proprietor,1995000.0,Self-employed,unknown,Graduate,unknown,unknown,unknown,Business man,0,CLIENT,0,1
+1138,4020641000003227,Male,Married,Accountant,537516.0,Employee,2 to 5 years,Under Graduate,unknown,None,Salary,Employee,28,CLIENT,0,0
+1142,4020641000004654,Male,Unmarried,Finance Manager,840000.0,Employee,unknown,Graduated,unknown,None,Salary,Finance Manager,38,CLIENT,0,2
+1143,4020641000011923,Male,Unmarried,unknown,480000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,24,CLIENT,0,0
+1149,4020641000003086,Male,Married,Operational Manager,1080000.0,Employee,2 to 5 years,Graduated,None,2,Salary,Management,34,unknown,0,0
+1150,4020641000001288,Male,Married,Proprietor,2709996.0,Self-employed,unknown,Post-graduated,Global IME Bank Saving A/C,unknown,Business,Businessman,0,unknown,0,1
+1156,4020640000007691,Male,Married,CEO,1560000.0,Employee,unknown,Under Graduate,unknown,unknown,Salary,Employee,45,CLIENT,0,2
+1158,4020641000004142,Male,Married,unknown,1500000.0,Employee,More than 10 years,Post-graduated,Nepal Rastra Bank,3,Salary,Banker,47,CLIENT,0,0
+1161,4020641000010180,Male,Married,unknown,1800000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,37,CLIENT,0,0
+1162,4020641000000405,Male,Married,Campus Chief,594000.0,Employee,More than 10 years,Post-graduated,None,greater than 3,Salary,Manager,45,CLIENT,0,1
+1165,4020640000006719,Male,Married,Coordinator,unknown,confidential,unknown,unknown,unknown,unknown,unknown,unknown,0,CLIENT,0,1
+1167,4020641000005792,Male,Unmarried,Finance Chief,600000.0,Employee,unknown,unknown,unknown,None,Salary,Employee,32,CLIENT,0,0
+1169,4020641000002492,Male,Married,Assitant DIrector,1476000.0,Employee,More than 10 years,Graduated,None,3,Salary,Banker,44,CLIENT,0,1
+1170,4020641000010073,Male,unknown,unknown,1800000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,27,CLIENT,0,0
+1173,4020641000008176,Male,unknown,unknown,2400000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,49,CLIENT,0,1
+1174,4020641000002443,Male,Married,Deputy Director,660000.0,Employee,More than 10 years,unknown,None,2,Salary,Banker,51,CLIENT,0,0
+1175,4020641000010016,Male,Unmarried,Proprietor,576000.0,Self-employed,unknown,Post graduate,unknown,2,Business and rental,Businessman,30,CLIENT,0,0
+1176,4020640000006032,Male,Married,Chairman,3144000.0,Self-employed,unknown,Graduate,unknown,unknown,Business,Businessman,0,CLIENT,0,1
+1177,4020641000001684,Male,Married,Proprietor,4677552.0,Self-employed,unknown,unknown,unknown,unknown,Business,Business person,0,CLIENT,0,3
+1183,4020641000001767,Male,Married,Assitant DIrector,1800000.0,Employee,More than 10 years,Post-graduated,Global IME Bank Limited,3,Salary,Banker,-9,CLIENT,0,0
+1185,4020641000007152,Male,Married,unknown,960000.0,Employee,unknown,Graduate,unknown,2,Salary,Employee,26,CLIENT,0,1
+1186,4020641000006444,Male,Unmarried,Assistant,252000.0,Employee,0 to 2 years,unknown,unknown,None,Salary,Employee,30,CLIENT,0,0
+1189,4020641000000470,Male,Married,Proprietor,1925838.6,Employee,5 to 10 years,Others,None,greater than 3,Business,Businessman,-6,CLIENT,0,2
+1191,4020641000009398,Male,Married,unknown,unknown,Self-employed,unknown,Under Graduate,unknown,Business Salary,unknown,Private,32,CLIENT,0,0
+1192,4020641000008960,Male,unknown,unknown,18000000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,64,CLIENT,0,0
+1193,4020640000008442,Male,unknown,unknown,unknown,Self-employed,unknown,unknown,unknown,unknown,Business,Businessman,0,CLIENT,0,3
+1194,4020641000006774,Male,Married,SR. Assistant,398148.0,Employee,unknown,unknown,unknown,2,Salary,unknown,35,CLIENT,0,1
+1201,4020641000009984,Male,unknown,unknown,unknown,Employee,unknown,unknown,unknown,2,Salary,Employee,0,CLIENT,0,1
+1205,4020641000003458,Male,Married,unknown,unknown,Self-employed,unknown,unknown,unknown,Business ,Businessman,Private,49,CLIENT,0,1
+1208,4020641000008044,Male,Married,Proprietor,1200000.0,Self-employed,unknown,unknown,unknown,1,Business,Business man,0,CLIENT,0,0
+1212,4020641000011642,Male,Married,Deputy Director,unknown,Employee,More than 10 years,Post Graduate,None,Salary,Banker,Government,39,CLIENT,0,0
+1213,4020641000008739,Male,Married,Proprietor,786000.0,Self-employed,unknown,Under Graduate,unknown,1,Business,Businessman,24,CLIENT,0,0
+1218,4020641000009810,Male,Unmarried,unknown,6000000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,23,CLIENT,0,0
+1220,4020641000003490,Male,Married,unknown,264180.0,Employee,unknown,unknown,NIBL Saving,1,Salary,Employee,29,CLIENT,0,1
+1225,4020641000008069,Male,Unmarried,Account Manager,unknown,Employee,unknown,unknown,unknown,None,Salary,Employee,0,CLIENT,0,1
+1230,4020641000001486,Male,Married,Senior Consultant Surgeon,7584000.0,confidential,More than 10 years,Post-graduated,None,2,Salary,Consultant,46,CLIENT,0,1
+1231,4020641000009802,Male,Married,unknown,2400000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,29,CLIENT,0,0
+1238,4020641000009992,Female,Unmarried,Proprietor,960000.0,Self-employed,unknown,unknown,unknown,1,Business,Business women,35,CLIENT,0,0
+1241,4020641000002898,Male,Married,Assistant,1144500.0,Employee,5 to 10 years,Post Graduate,unknown,2,Salary,Banker,32,CLIENT,0,1
+1242,4020641000008556,Male,Unmarried,unknown,1800000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,25,CLIENT,0,1
+1246,4020641000004522,Male,Married,Senior Assitant Finance,324000.0,Employee,2 to 5 years,Post-graduated,unknown,1,Salary,Fianance,35,CLIENT,0,1
+1249,4020641000006048,Male,Married,Proprietor,2940000.0,Self-employed,More than 10 years,Post-graduated,MBL (SME Loan),3,Business,Entrepreneur,39,CLIENT,0,1
+1252,4020641000007806,Male,Married,unknown,2160000.0,Employee,More than 10 years,unknown,None,3,Salary,unknown,43,CLIENT,0,0
+1254,4020641000005982,Male,Married,Proprietor,unknown,Self-employed,unknown,MBL Home Loan,unknown,2,Business,Employee,0,CLIENT,0,1
+1255,4020641000008523,Male,Married,Proprietor,1372932.0,Self-employed,More than 10 years,unknown,None,3,Business,Entrepreneur,42,CLIENT,0,0
+1257,4020641000010610,Male,Unmarried,Managing Director,unknown,Employee,unknown,unknown,unknown,Salary,Employee,Private,46,CLIENT,0,0
+1260,4020641000000686,Male,Married,Proprietor,972000.0,Self-employed,2 to 5 years,unknown,None,greater than 3,Business,Businessman,41,CLIENT,0,3
+1261,4020641000005818,Male,Married,Proprietor,823992.0,Self-employed,2 to 5 years,Under Graduated,None,3,Business,Entrepreneur,33,CLIENT,0,0
+1265,4020641000002187,Male,Unmarried,unknown,552000.0,confidential,5 to 10 years,unknown,None,2,unknown,unknown,34,CLIENT,0,0
+1266,4020641000003276,Male,Married,Owner,876000.0,Self-employed,2 to 5 years,Graduated,None,1,Rent,House Owner,56,CLIENT,2,5
+1267,4020641000010206,Male,unknown,unknown,2400000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,56,CLIENT,0,0
+1268,4020641000010172,Male,unknown,unknown,1200000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,33,CLIENT,0,0
+1269,4020641000001494,Male,Married,Executive Officer,576000.0,Employee,unknown,Graduated,NCC bank Staff A/C,unknown,Salary,Banker,40,CLIENT,0,3
+1279,4020641000003029,Male,Married,Shareholder,10800000.0,Self-employed,2 to 5 years,unknown,None,0,Business,Investor,31,CLIENT,0,2
+1284,4020641000010875,Male,Married,unknown,276000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,35,CLIENT,0,0
+1286,4020641000004035,Male,Married,Sales Manager,789600.0,Employee,unknown,Graduated,None,unknown,Salary,unknown,35,CLIENT,0,2
+1290,4020641000011568,Male,Married,Proprietor,2280000.0,Self-employed,2 to 5 years,unknown,None,greater than 3,Business,Entrepreneur,43,CLIENT,0,0
+1292,4020641000007327,Male,Married,Proprietor,529872.0,Self-employed,5 to 10 years,Others,None,greater than 3,Business,Entrepreneur,43,CLIENT,0,1
+1296,4020641000011865,Male,unknown,unknown,720000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,52,CLIENT,0,0
+1298,4020641000004787,Male,Married,Tour Officer,420000.0,Employee,More than 10 years,Under Graduated,None,2,Salary,Management,47,CLIENT,0,1
+1299,4020641000002633,Male,Married,Owner,933240.0,Self-employed,5 to 10 years,unknown,Mega Bank Limited Saving A/C,3,Business,Businessman,49,CLIENT,0,3
+1300,4020641000011667,Male,Married,Brach Manager,600000.0,Employee,2 to 5 years,Post-graduated,None,1,Salary,Management,32,CLIENT,0,0
+1305,4020641000009927,Male,Married,Proprietor,unknown,Employee,unknown,unknown,unknown,Business,Businessman,Private,37,CLIENT,0,0
+1306,4020641000011444,Male,Married,Proprietor,unknown,Self-employed,unknown,unknown,unknown,2,Business,Business man,48,CLIENT,0,0
+1307,4020641000005883,Male,Married,Proprietor,10200000.0,Self-employed,2 to 5 years,unknown,Everest Bank Limited ( Credit Card),3,Business,Entrepreneur,36,CLIENT,0,2
+1309,4020641000009968,Male,Married,Physician,unknown,Employee,unknown,Post Graduate,unknown,Salary Business rental,Physician,Private,51,CLIENT,0,0
+1310,4020640000004177,Male,Married,CEO,1020000.0,Employee,unknown,unknown,None,unknown,Salary,Management,35,CLIENT,0,2
+1312,4020641000009752,Male,Unmarried,unknown,597000.0,Employee,2 to 5 years,Graduated,None,1,Salary,Owner,22,CLIENT,0,1
+1313,4020640000005547,Male,Married,unknown,unknown,Self-employed,unknown,unknown,unknown,unknown,Business,Businessman,0,CLIENT,0,3
+1320,4020641000007996,Male,Married,Proprietor,2745000.0,Self-employed,2 to 5 years,unknown,None,3,Business,Entrepreneur,45,unknown,0,0
+1324,4020641000005800,Male,Married,Proprietor's Son,unknown,Self-employed,unknown,unknown,Under Graduate,4 or more,Business,Businessman,0,CLIENT,0,1
+1325,4020641000007988,Male,Married,Proprietor,3156999.96,Self-employed,2 to 5 years,Graduated,None,3,Business,Entrepreneur,44,unknown,0,0
+1330,4020641000000835,Male,Married,Proprietor,unknown,Self-employed,unknown,Others,unknown,unknown,Business,unknown,0,CLIENT,0,1
+1333,4020641000009745,Male,Married,Operational Manager,1080000.0,Employee,2 to 5 years,Graduated,None,2,Salary,Management,34,CLIENT,0,0
+1335,4020641000007731,Male,Unmarried,unknown,unknown,Employee,unknown,unknown,unknown,Salary,Banker,Private,30,CLIENT,0,0
+1336,4020641000009380,Male,Married,Proprietor,unknown,Self-employed,3 to 5 years,Under Graduate,unknown,Business,Businessman,Private,39,CLIENT,0,0
+1344,4020641000008507,Male,Married,unknown,unknown,Self-employed,unknown,Under Graduate,unknown,Business,Businessman,Private,62,CLIENT,0,0
+1345,4020641000003292,Male,Married,unknown,357696.0,Employee,2 to 5 years,unknown,None,greater than 3,Salary,unknown,0,CLIENT,0,0
+1347,4020641000002658,Male,Unmarried,Consult Physician,2160000.0,Employee,5 to 10 years,Graduated,None,3,Salary,Physician,35,CLIENT,0,1
+1348,4020641000009679,Female,Married,Officer,unknown,Employee,more than 10 years,unknown,unknown,Salary,Employee,Private,35,CLIENT,0,0
+1349,4020641000000645,Male,Married,Assitant Director,1620000.0,Employee,More than 10 years,unknown,None,greater than 3,Salary,Banker,51,CLIENT,0,0
+1352,4020641000004225,Male,Married,Head Assistant,1200000.0,Employee,5 to 10 years,Post-graduated,Nepal Rastra Bank,2,Salary,Banker,33,CLIENT,0,0
+1354,4020641000009737,Female,Unmarried,Civil Engineer,420000.0,Employee,2 to 5 years,Graduated,None,0,Salary,Engineer,24,CLIENT,0,0
+1355,4020640000004276,Male,Married,Proprietor,1871400.0,Self-employed,unknown,Graduated,None,unknown,Business,Business man,59,CLIENT,0,2
+1356,4020641000002005,Male,Married,Executive director,1860000.0,Employee,More than 10 years,Post-graduated,Citizen BankStandard Chartered  Bank Nabil Bank,3,Salary,Director,49,CLIENT,0,0
+1358,4020641000009265,Male,Married,COO,1800000.0,Employee,0 to 2 years,unknown,unknown,2,Salary,Employee,39,CLIENT,1,2
+1360,4020641000009307,Male,Married,Marketing Manager,576000.0,confidential,below 1 year,Graduate,unknown,Salary Auto,unknown,Private,33,CLIENT,0,0
+1363,4020641000004795,Female,Married,Officer,792000.0,Employee,5 to 10 years,Post-graduated,Century Commercial Bank,0,Salary,Banker,34,CLIENT,0,0
+1368,4020641000009794,Male,unknown,unknown,360000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,38,CLIENT,0,0
+1369,4020641000008796,Male,Married,unknown,480000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,50,CLIENT,0,1
+1370,4020640000007741,Male,unknown,unknown,2952000.0,Self-employed,unknown,unknown,unknown,4 or more,Business,Businessman,0,CLIENT,0,1
+1391,4020641000007160,Male,Unmarried,unknown,unknown,Self-employed,unknown,unknown,Kumari Bank Limited,None,Business,Business man,21,CLIENT,0,1
+1393,4020641000006931,Male,Unmarried,Doctor,unknown,Employee,0 to 2 years,unknown,unknown,None,Salary,Doctor,27,CLIENT,0,0
+1394,4020641000010065,Male,Married,Proprietor,14396784.0,Self-employed,More than 10 years,Under Graduated,None,greater than 3,Business,Entrepreneur,50,CLIENT,0,1
+1405,4020641000008606,Male,unknown,unknown,1200000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,33,CLIENT,0,1
+1409,4020640000007709,Male,Married,Consultant,1248000.0,Employee,unknown,Post Graduate,unknown,unknown,Salary,unknown,37,CLIENT,0,1
+1420,4020641000009190,Male,Married,unknown,unknown,Employee,unknown,unknown,unknown,Salary,unknown,unknown,40,CLIENT,0,1
+1424,4020640000008400,Male,Married,Proprietor,unknown,Self-employed,unknown,Graduate,unknown,unknown,Business,Business man,0,CLIENT,0,5
+1429,4020640000004359,Male,Unmarried,unknown,556992.0,Employee,more than 10 years,unknown,Laxmi Bank Saving,unknown,Salary,unknown,31,CLIENT,0,0
+1430,4020641000008465,Male,Married,Proprietor,unknown,Self-employed,unknown,Graduate,unknown,4,Business,Business man,33,CLIENT,0,1
+1431,4020641000009042,Male,Married,Proprietor,3427440.0,Self-employed,5 to 10 years,unknown,None,greater than 3,Business,Entrepreneur,28,CLIENT,0,1
+1432,4020641000007921,Male,unknown,unknown,1800000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,32,CLIENT,0,1
+1439,4020641000011675,Female,Married,Teacher,374400.0,confidential,5 to 10 years,Graduated,None,0,Salary,Teacher,34,CLIENT,0,0
+1442,4020641000010032,Male,Married,unknown,600000.0,Employee,unknown,unknown,unknown,2,Salary,Employee,39,CLIENT,0,0
+1449,4020640000006842,Male,Married,Proprietor,2088000.0,Self-employed,unknown,Graduate,unknown,unknown,Business,Businessman,0,CLIENT,0,1
+1463,4020641000005826,Female,Unmarried,Accountant,536400.0,confidential,More than 10 years,unknown,unknown,greater than 3,Salary,unknown,31,CLIENT,0,0
+1464,4020641000009836,Male,unknown,unknown,480000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,47,CLIENT,0,0
+1465,4020641000007673,Female,Unmarried,Jr. Busniess Analyst,unknown,Employee,2 to 5 years,Graduate,unknown,no,Salary,Employee,26,CLIENT,0,0
+1466,4020641000008283,Male,Married,unknown,720000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,40,CLIENT,0,1
+1472,4020640000005489,Male,Married,Teacher/ Student Dean,unknown,confidential,unknown,Graduate,unknown,unknown,Salary,Teacher,0,CLIENT,0,1
+1473,4020641000011980,Male,unknown,unknown,600000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,32,CLIENT,0,0
+1478,4020641000004456,Female,Unmarried,Junior officer,516000.0,confidential,2 to 5 years,unknown,None,0,Salary,Adminstrator,30,CLIENT,0,1
+1481,4020641000004704,Female,Unmarried,Senior Research Officer,564000.0,Employee,5 to 10 years,Post-graduated,Standard Chartered Bank NIBL,0,Salary,Researcher,29,CLIENT,0,0
+1491,4020641000011873,Male,Married,unknown,1800000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,30,CLIENT,0,0
+1496,4020640000008160,Male,Married,Employed,6900000.0,Employee,unknown,unknown,unknown,4 or more,Business,Businessman,40,CLIENT,0,2
+1506,4020641000009851,Male,Unmarried,unknown,2400000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,27,CLIENT,0,0
+1518,4020641000001833,Male,Married,Owner,720000.0,Self-employed,unknown,Graduate,unknown,3,Business,Businessman,0,CLIENT,0,1
+1519,4020641000002930,Male,Married,unknown,660000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,49,CLIENT,0,1
+1522,4020641000002369,Male,Married,Deputy Director,1621548.0,Employee,More than 10 years,Post-graduated,None,3,Salary,Banker,37,CLIENT,0,0
+1524,4020641000000074,Male,Married,unknown,1164000.0,Employee,unknown,unknown,unknown,3,Salary,Employee,0,CLIENT,0,1
+1531,4020641000007590,Male,Married,Managing Director,unknown,Self-employed,unknown,unknown,unknown,Business,Businessman,Private,47,CLIENT,0,0
+1533,4020640000005752,Male,Married,Proprietor,990000.0,Self-employed,unknown,Under Graduate,unknown,unknown,Business,Business man,0,CLIENT,0,2
+1534,4020641000010883,Male,Married,unknown,300000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,25,CLIENT,0,0
+1535,4020641000006733,Male,Married,Officer,448248.0,Employee,5 to 10 years,unknown,NIC Asia,2,Salary,Army officer,29,CLIENT,0,0
+1541,4020641000002583,Male,Married,Accountant,6900000.0,Employee,2 to 5 years,Graduated,Everest BankSiddhartha Bank( Saving A/C),2,Salary,Finanace,28,CLIENT,0,1
+1542,4020641000007202,Male,Married,Account Head,2400000.0,Employee,unknown,Post Graduate,unknown,2,Salary,Employee,34,CLIENT,0,0
+1543,4020640000006727,Male,Married,unknown,600000.0,Self-employed,More than 10 years,unknown,unknown,unknown,unknown,unknown,0,CLIENT,0,3
+1548,4020641000006212,Male,Married,MD,3600000.0,Self-employed,5 to 10 years,Intermediate,unknown,3,Salary,Employee,47,CLIENT,0,1
+1551,4020641000004621,Male,Unmarried,unknown,unknown,Self-employed,unknown,Under graduate,None,Business,Businessman,Private,34,CLIENT,0,0
+1557,4020641000008978,Male,unknown,unknown,30000000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,69,CLIENT,0,0
+1563,4020641000010081,Male,Married,unknown,840000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,52,CLIENT,0,0
+1570,4020641000010230,Male,Married,unknown,960000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,32,CLIENT,0,0
+1577,4020641000011287,Female,Married,unknown,372000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,37,CLIENT,0,0
+1578,4020641000009323,Male,Married,Promoter,unknown,Employee,unknown,unknown,unknown,1,Salary,unknown,28,CLIENT,0,0
+1584,4020641000009224,Female,unknown,unknown,960000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,40,CLIENT,0,1
+1588,4020641000009232,Male,Married,unknown,1200000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,29,CLIENT,0,0
+1592,4020641000002237,Female,Married,Consultant Pediatrician,1182000.0,Employee,5 to 10 years,Others,None,0,Salary,Doctor,39,CLIENT,0,0
+1601,4020641000002260,Female,Married,Telephone Operator Level 4,314640.0,Employee,unknown,Post Graduate,unknown,2,Salary,Employee,37,CLIENT,0,1
+1603,4020641000009828,Female,Married,unknown,1800000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,41,CLIENT,0,0
+1605,4020641000009844,Male,unknown,unknown,1800000.0,confidential,unknown,unknown,unknown,unknown,unknown,unknown,37,CLIENT,0,0
+1609,4020641000009521,Male,Married,Director,unknown,Self-employed,unknown,Graduate,unknown,2,Business,Business man,0,CLIENT,0,1
+1613,4020640000006859,Male,Married,Proprietor,1236000.0,Self-employed,unknown,Under Graduate,unknown,unknown,Business,Businessman,0,CLIENT,0,0
+1616,4020641000009661,Male,Married,Assistant Manager,763620.12,Employee,2 to 5 years,Post-graduated,Purnima Bikas Bank Limited,3,Salary,Banker,41,CLIENT,0,0
+1617,4020640000006941,Male,Married,Chairman,1680000.0,Employee,unknown,Graduate,unknown,unknown,Salary,Employee,36,CLIENT,0,1
+1625,4020641000002252,Male,Unmarried,Finance Manager,420000.0,Employee,unknown,unknown,unknown,unknown,Salary,Employee,0,CLIENT,0,0
+1626,4020641000004498,Male,Married,Managing Director,unknown,Self-employed,10 years,Post Graduate,unknown,Business,Businessman,Private,38,CLIENT,0,1
